@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./header.png"/>
-</p>
+# J. Ring-Sakabe ジェイ・リング-坂部
 
 Hey what's happening? The name is Jordan, but call me Jay 🚀 I'm an energetic full-stack web developer with a background as a high school teacher of Japanese and freelance online tutor 🗾 With a passion for education and being a strongly determined, motivated, and hard-working individual, I'm looking to incorporate my eye for design and insight into data and backend functionality to work with a team and develop legible and functional applications that help multi-lingual companies and their clientele grow　🔥 
 
@@ -9,6 +7,7 @@ Hey what's happening? The name is Jordan, but call me Jay 🚀 I'm an energetic 
 ### About Me
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Wyzant.
+- 👦 Pronouns: All the dude ones!
 - 💬 Recently completed Full Stack Web Development course
 - 📫 How to reach me: jordanringsakabe@gmail.com
 - ⚡ Fun fact: I love oil painting.
@@ -17,7 +16,7 @@ Hey what's happening? The name is Jordan, but call me Jay 🚀 I'm an energetic 
 
 ## 七転び八起き　"Fall down seven times, stand up Eight" ~Japanese Proverb
 
-I started playing with computers when I was 2 years old. Following in the footsteps of my father, I've taken a passion for all things tech related. Getting started in IT began with working at a computer hardware store, then moving into network administrating and I've now taken all that I have learned and am applying my skills to web development.
+I've always taken it upon myself to learn whatever needs to be learned or do whatever needs to be done in order to get the ball moving forward. I like results and I don't take breaks unless if I see progress. I like to work hard, but I also enjoy working with people. Even when it gets messy and team mates have disagreements, I believe it's important that we grow together and learn from eachother.
 
 ----------------------------
 
