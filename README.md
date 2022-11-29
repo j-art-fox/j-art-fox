@@ -14,9 +14,11 @@ Hey what's happening? The name is Jordan, but call me Jay 🚀 I'm an energetic 
 - 🌱 I’m currently learning C++
 
 
-## 七転び八起き　"Fall down seven times, stand up Eight" ~Japanese Proverb
+## 七転び八起き(nanakorobi yaoki)　"Fall down seven times, stand up Eight" ~Japanese Proverb
 
-I've always taken it upon myself to learn whatever needs to be learned or do whatever needs to be done in order to get the ball moving forward. I like results and I don't take breaks unless if I see progress. I like to work hard, but I also enjoy working with people. Even when it gets messy and team mates have disagreements, I believe it's important that we grow together and learn from eachother.
+I've always taken it upon myself to learn whatever needs to be learned or do whatever needs to be done in order to get the ball moving forward. That inevitably means there are going to be mistakes and mishaps. No matter how many times that happens I try to remember: nanakorobi yaoki. I get back up and try again. I like results and I don't take breaks unless if I see progress.
+
+Additionally, I also enjoy working with people. Even when it gets messy and teammates have disagreements, it's important to remember: nanakorobi yaoki. I believe it's important that when we have disagreements, that we remember it's our uniqueness of character but unity in purpose that will help us grow together and enable us to learn from eachother.
 
 ----------------------------
 
