@@ -8,7 +8,7 @@ Hey what's happening? 🦊 The name is Jordan, but call me Jay 🚀 I'm an energ
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Wyzant.
 - 👦 Pronouns: All the dude ones!
-- 💬 Recently completed Full Stack Web Development course
+- 💬 Certified Full Stack Web Developmer
 - 📫 How to reach me: jordanringsakabe@gmail.com
 - ⚡ Fun fact: I love oil painting.
 - 🌱 I’m currently learning C++
