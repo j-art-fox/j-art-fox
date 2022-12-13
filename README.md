@@ -11,7 +11,7 @@ Hey what's happening? 🦊 The name is Jordan, but call me Jay 🚀 I'm an energ
 - 💬 Certified Full Stack Web Developmer
 - 📫 How to reach me: jordanringsakabe@gmail.com
 - ⚡ Fun fact: I love oil painting.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning PostgreSQL, REMIX, and NEXT.JS
 
 
 ## 七転び八起き (nanakorobi yaoki)　"Fall down seven times, stand up Eight" ~Japanese Proverb
