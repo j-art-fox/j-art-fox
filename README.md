@@ -26,12 +26,11 @@ Additionally, I also enjoy working with people. Even when it gets messy and team
 <figure><embed src="https://wakatime.com/share/@50d8ffe8-ca0c-4eea-abdf-b3c5c1c8a975/fc34b017-9ab2-40fc-9565-68746534c7dc.svg"></embed></figure>
 
 
-
 ### Profile Views
 <img src="https://komarev.com/ghpvc/?username=j-art-fox&style=flat-square&color=blue" alt=""/>
 
 ----------------------------
 
 ### Languages
-<a href="https://github.com/j-art-fox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbushman98&langs_count=10&layout=compact&title_color=474647&text_color=474647&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=" alt="Languages" /></a>
+<figure><embed src="https://wakatime.com/share/@50d8ffe8-ca0c-4eea-abdf-b3c5c1c8a975/a7a371b9-6494-453a-ac60-34ad044c5587.svg"></embed></figure>
 
