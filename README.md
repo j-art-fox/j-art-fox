@@ -21,15 +21,5 @@ I've always taken it upon myself to learn whatever needs to be learned or do wha
 Additionally, I also enjoy working with people. Even when it gets messy and teammates have disagreements, it's important to remember: nanakorobi yaoki. I believe it's important that when we have disagreements, that we remember it's our uniqueness of character but unity in purpose that will help us grow together and enable us to learn from eachother.
 
 ----------------------------
-
-### Checkout my profile on WakaTime
-
-
-### Profile Views
-<img src="https://komarev.com/ghpvc/?username=j-art-fox&style=flat-square&color=blue" alt=""/>
-
-----------------------------
-
 ### Languages
-<embed src="https://wakatime.com/share/@50d8ffe8-ca0c-4eea-abdf-b3c5c1c8a975/a7a371b9-6494-453a-ac60-34ad044c5587.svg"></embed>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-art-fox)](https://github.com/j-art-fox/github-readme-stats)
