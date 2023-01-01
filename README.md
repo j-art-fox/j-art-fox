@@ -23,7 +23,7 @@ Additionally, I also enjoy working with people. Even when it gets messy and team
 ----------------------------
 
 ### Checkout my profile on WakaTime
-[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
+<figure><embed src="https://wakatime.com/share/@50d8ffe8-ca0c-4eea-abdf-b3c5c1c8a975/fc34b017-9ab2-40fc-9565-68746534c7dc.svg"></embed></figure>
 
 
 
