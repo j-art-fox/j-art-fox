@@ -23,7 +23,6 @@ Additionally, I also enjoy working with people. Even when it gets messy and team
 ----------------------------
 
 ### Checkout my profile on WakaTime
-<figure><embed src="https://wakatime.com/share/@50d8ffe8-ca0c-4eea-abdf-b3c5c1c8a975/fc34b017-9ab2-40fc-9565-68746534c7dc.svg"></embed></figure>
 
 
 ### Profile Views
@@ -32,5 +31,5 @@ Additionally, I also enjoy working with people. Even when it gets messy and team
 ----------------------------
 
 ### Languages
-<figure><embed src="https://wakatime.com/share/@50d8ffe8-ca0c-4eea-abdf-b3c5c1c8a975/a7a371b9-6494-453a-ac60-34ad044c5587.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@50d8ffe8-ca0c-4eea-abdf-b3c5c1c8a975/a7a371b9-6494-453a-ac60-34ad044c5587.svg"></embed>
 
